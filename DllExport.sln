@@ -14,21 +14,20 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApp", "NetApp\NetApp.csp
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug TestApp|Any CPU = Debug TestApp|Any CPU
 		Debug|Any CPU = Debug|Any CPU
+		DebugTestApp|Any CPU = DebugTestApp|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Debug TestApp|Any CPU.ActiveCfg = Debug TestApp|x64
-		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Debug TestApp|Any CPU.Build.0 = Debug TestApp|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Debug|Any CPU.Build.0 = Debug|x64
+		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp|Any CPU.ActiveCfg = Debug TestApp|x64
+		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp|Any CPU.Build.0 = Debug TestApp|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Release|Any CPU.ActiveCfg = Release|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Release|Any CPU.Build.0 = Release|x64
-		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Debug TestApp|Any CPU.ActiveCfg = Debug|Any CPU
-		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Debug TestApp|Any CPU.Build.0 = Debug|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.DebugTestApp|Any CPU.ActiveCfg = Debug|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
