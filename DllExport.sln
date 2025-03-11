@@ -12,21 +12,30 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestApp", "TestApp", "{02EA
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetApp", "NetApp\NetApp.csproj", "{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{8EC462FD-D22E-90A8-E5CE-7E832BA40C5D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		DebugTestApp.NET8|Any CPU = DebugTestApp.NET8|Any CPU
 		DebugTestApp|Any CPU = DebugTestApp|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Debug|Any CPU.ActiveCfg = Debug|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Debug|Any CPU.Build.0 = Debug|x64
-		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp|Any CPU.ActiveCfg = Debug TestApp|x64
-		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp|Any CPU.Build.0 = Debug TestApp|x64
+		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp.NET8|Any CPU.ActiveCfg = DebugTestApp.NET8|x64
+		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp.NET8|Any CPU.Build.0 = DebugTestApp.NET8|x64
+		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp|Any CPU.ActiveCfg = DebugTestApp|x64
+		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.DebugTestApp|Any CPU.Build.0 = DebugTestApp|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Release|Any CPU.ActiveCfg = Release|x64
 		{3CD3E054-B8EB-4D0A-B5DC-2EB81F10B873}.Release|Any CPU.Build.0 = Release|x64
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Debug|Any CPU.ActiveCfg = Release|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.DebugTestApp.NET8|Any CPU.ActiveCfg = Debug|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.DebugTestApp|Any CPU.ActiveCfg = Debug|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E952A8F9-07BF-47FF-9ACC-BBA6863D2CE6}.Release|Any CPU.Build.0 = Release|Any CPU
