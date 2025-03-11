@@ -1,1 +1,4 @@
 TestDll/x64/
+.vs/
+bin/
+NetApp/obj/
